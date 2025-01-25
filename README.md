@@ -4,6 +4,13 @@ Skylify is an **innovative web application** designed for space enthusiasts, off
 
 ---
 
+## **Live Demo** 🌐
+
+The project is hosted and can be accessed here:  
+👉 **[https://temp-nasa.vercel.app/](https://temp-nasa.vercel.app/)**
+
+---
+
 ## **Features** ✨
 
 1. **Interactive 3D Models** 🪐:
@@ -101,7 +108,6 @@ Skylify is an **innovative web application** designed for space enthusiasts, off
 4. **Access the Application**:
    - Open your browser and navigate to `http://localhost:3000` for the frontend.
    - The backend API will be running at `http://localhost:8000`.
-
 
 ---
 
